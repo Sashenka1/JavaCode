@@ -25,12 +25,12 @@ public class TestClass {
 		number.EvenOROdd(10);
 		
 	}
-//		
+// void is a return type, EvenOROdd =method name		
 	void EvenOROdd(int number) {
 		if( number %2==0) {
-			System.out.println(number+"is an even #");
+			System.out.println(number+" is an even #");
 		}else {
-			System.out.println(number+"is Odd");
+			System.out.println(number+" is Odd");
 		}
 			
 		}
