@@ -42,11 +42,13 @@ public class April9 {
 //			grade='C'; 
 //			return grade;
 //		
-/		//April9 obj=new April9();
+		//April9 obj=new April9();
 		//String hi =obj.someMethod("Hi, how are you?");
-	//System.out.println(hi);}}
+	   //System.out.println(hi);}}
 ////			
-	
+		
+		
+		
 	public boolean isPalindrome( String str) {
 		String reverse="";
 		boolean flag=false;
