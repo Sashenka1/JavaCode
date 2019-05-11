@@ -15,8 +15,9 @@ public class Employee {
 	em1.eID=4321;
 	em1.salary=80000;
 	em1.getEmp();}
+	
 	public void getEmp() {
-		System.out.println("ceo"+CEO+"ID"+eID);
+		System.out.println("CEO is "+CEO+" ID is "+eID+" salary is "+salary);
 	
 	
 	
